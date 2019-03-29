@@ -8,7 +8,7 @@
 	"so-semanticolap": "Semantic OLAP",
 	"so-desc": "Allows for analyzing SMW Data by using Pivot Table",
 	"so-special-title": "Semantic OLAP",
-	"so-special-description": "Create a Query which retrieves Data for the Pivot Table. Select at least one Cateory and one Property.",
+	"so-special-description": "Create a Query which retrieves Data for the Pivot Table. Select at least one Category and one Property.",
 	"so-button-submit": "Submit",
 	"so-button-selectData": "Select Data",
 	"so-category-selection": "'''Select at least one Category'''",
